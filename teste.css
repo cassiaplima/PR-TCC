@@ -1,0 +1,5 @@
+.navbar-brand{
+    display: flex;
+    justify-self: left;
+    margin-right: 87%;
+}

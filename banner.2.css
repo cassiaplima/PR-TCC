@@ -1,0 +1,30 @@
+.conteudo{
+    background-color: #F6E7D8;
+}
+.texto{
+    display: grid;
+    grid-template-areas: " conteudo lista";
+    grid-template-columns: 1.2fr 1fr;
+    justify-content:center;
+    align-items: center;
+}
+
+.lista-conteudo{
+    grid-area: lista;
+    display: flex;
+    flex-direction: column;
+    justify-self: right;
+    margin-right: 50%;
+    margin-block-end: 30%;
+    list-style: none;
+    text-align: left;
+}
+
+.conteudo-texto{
+    text-align: center;
+    margin-block-end: 25%;
+    margin-left: 30%;
+}
+
+
+

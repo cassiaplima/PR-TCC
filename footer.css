@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    width: 94,5%;
+    background-color: #700a18;
+    color:white;
+    padding:40px ;
+    font-size: 16px;
+   }
+  
+  .ins{
+    height: 40px;
+  }

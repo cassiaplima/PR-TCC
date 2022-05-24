@@ -1,0 +1,30 @@
+
+.Home{
+    background-color: #700a18;
+}
+
+.p2{
+    height: 30vh;
+    background-color: #700a18;
+    text-align: center;
+    color: #fffcf1;
+    font-size: 20px;
+    font-family: "Snell Roundhand, cursive";
+}
+.paragrafo{
+    width: 60%;
+   margin-left: auto;
+   margin-right: auto;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    width: 94,5%;
+    background-color: #700a18;
+    color:white;
+    padding:40px ;
+   }
+  
+  .ins{
+    height: 40px;
+  }

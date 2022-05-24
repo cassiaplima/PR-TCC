@@ -1,0 +1,44 @@
+.produtos{
+ background-color: #f6e7d8;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+  }
+
+.produtos1{
+ background-color: #f6e7d8;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+
+.produtos2{
+ background-color: #f6e7d8;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+.card{
+    margin: 1em;
+}
+
+.card-img-top{
+ height: 250px;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-around;
+  width: 94,5%;
+  background-color: #700a18;
+  color:white;
+  padding:40px ;
+  font-size: 16px;
+ }
+
+.ins{
+  height: 40px;
+}
+

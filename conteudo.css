@@ -1,0 +1,8 @@
+.tabela, td, tr, th{
+    border: white solid 4px;
+    text-align: center;
+
+}
+.tables{
+    justify-content: center;
+}

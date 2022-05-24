@@ -1,0 +1,37 @@
+body{
+    background: #fffcf1;
+    font-size: 40px;
+    text-align: center;
+    }
+
+.conteudo{
+    font-size: 30px;
+    text-align: center;
+}
+
+.box_lista_ul{
+    list-style: none;
+}
+
+.brigadeiro{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    font-size: 16px;
+}
+
+.tables{
+    height: 100vh;
+    margin-top: 25px;
+
+}
+
+.complemento{
+    display: flex;
+}
+.card{
+    display: flex;
+}

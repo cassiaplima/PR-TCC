@@ -1,0 +1,51 @@
+.fixed-top{
+    display: flex;
+    background-color: #700a18;
+    text-decoration: none;
+    justify-content: flex-end;
+    justify-self: end;
+          
+}
+.navbar{
+background-color: #fffcf1;
+}
+
+
+
+.lista{
+display: flex;
+align-self: flex-end;
+padding: 0 10px;
+}
+.container{
+display: flex;
+padding: 0 20px;
+list-style-type: none;
+}
+
+li a{
+padding: 10px;
+color: white;
+font-size: 18px;
+margin-top: 20px;
+}
+.navbar-brand{
+justify-self: right;
+font-family:cursive;
+}
+
+.navbar .navbar-dark .bg-transparent{
+display: flex;
+justify-self: right;
+}
+
+.paragrafo{
+margin: 0;
+}
+
+
+@media (max-width: 500px){
+    .col{
+    width: 100%;
+    }
+}
